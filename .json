@@ -15,7 +15,7 @@
   },
   "update": {
     "minVersion": "1.0.0",
-    "latestVersion": "1.4.0",
+    "latestVersion": "1.0.0",
     "updateRequired": false,
     "updateType": "apk",
     "downloadUrl": "https://github.com/inatboxpros/inatbox/raw/main/inat-box-v14.apk",
