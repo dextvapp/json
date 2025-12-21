@@ -11,7 +11,7 @@
     "website": "https://dextv.app"
   },
   "security": {
-    "integrityCheckEnabled": false
+    "integrityCheckEnabled": true
   },
   "update": {
     "enabled": false,
