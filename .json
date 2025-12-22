@@ -133,7 +133,7 @@
       "hasMovies": true,
       "hasSeries": true,
       "searchEnabled": true,
-      "baseUrl": "https://dizipal1223.com",
+      "baseUrl": "https://dizipal1224.com",
       "api": {
         "search": "/api/search-autocomplete",
         "movies": "/filmler",
