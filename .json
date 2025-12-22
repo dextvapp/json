@@ -201,7 +201,7 @@
       },
       "categories": [
         { "path": "/category/film-izle-2/", "name": "Filmler", "type": "movie" },
-        { "path": "/yabancidiziizle-5/", "name": "Diziler", "type": "series" }
+        { "path": "/home-series/", "name": "Diziler", "type": "series" }
       ],
       "decoder": {
         "type": "closeload",
