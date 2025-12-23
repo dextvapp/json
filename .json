@@ -21,10 +21,10 @@
   "ads": [
     {
       "id": "ad1",
-      "title": "Casibom",
-      "imageUrl": "https://casibom9080.com/static/images/logo-animated.gif",
-      "targetUrl": "https://casibom9080.com",
-      "enabled": false,
+      "title": "Bu Alana Reklam Verebilirsiniz",
+      "imageUrl": "",
+      "targetUrl": "",
+      "enabled": true,
       "position": "home_top",
       "priority": 1
     }
@@ -119,7 +119,7 @@
       "hasMovies": true,
       "hasSeries": true,
       "searchEnabled": true,
-      "baseUrl": "https://dizipal1224.com",
+      "baseUrl": "https://dizipal1223.com",
       "api": {
         "search": "/api/search-autocomplete",
         "movies": "/filmler",
