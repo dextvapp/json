@@ -10,23 +10,9 @@
     "minVersion": "1.0.0",
     "website": "https://dextv.app"
   },
-  "security": {
-    "integrityCheckEnabled": true
-  },
   "update": {
     "enabled": false,
-    "latestVersion": "1.0.0",
-    "downloadUrl": "https://github.com/inatboxpros/inatbox/raw/main/inat-box-v14.apk",
-    "message": "🎉 Yeni versiyon mevcut!\n\n• Performans iyileştirmeleri\n• Hata düzeltmeleri\n• Yeni özellikler\n\nŞimdi güncellemek ister misiniz?"
-  },
-  "adSdk": {
-    "enabled": true,
-    "startIo": {
-      "appId": "211937293",
-      "interstitialEnabled": true,
-      "rewardedVideoEnabled": true,
-      "categoryChangeFrequency": 5
-    }
+    "latestVersion": "1.0.0"
   },
   "filters": {
     "blockedNames": ["inattv", "inat tv", "inattvapk", "@inat", "premium", "destek", "hata bildir", "telegram", "twitter", "x.com", "reklam", "sponsor", "Maç Seç İzle"],
