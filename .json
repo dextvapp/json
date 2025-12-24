@@ -43,6 +43,7 @@
     {
       "id": "ad1",
       "title": "Bu Alana Reklam Verebilirsiniz",
+      "subtitle": "Test",
       "imageUrl": "",
       "targetUrl": "",
       "enabled": true,
