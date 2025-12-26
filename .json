@@ -193,19 +193,20 @@
       }
     },
     {
-      "id": "trgoals",
-      "name": "TRGoals",
-      "enabled": true,
-      "type": "trgoals",
-      "hasLiveTV": true,
-      "hasMovies": false,
-      "hasSeries": false,
-      "searchEnabled": true,
-      "entryUrl": "https://trgoalsgiris.xyz/",
-      "extra": {
-        "requiresWebView": true
-      }
-    },
+    "id": "trgoals",
+    "name": "TRGoals",
+    "enabled": true,
+    "type": "trgoals",
+    "hasLiveTV": true,
+    "hasMovies": false,
+    "hasSeries": false,
+    "searchEnabled": true,
+    "entryUrl": "https://trgoalsgiris.xyz/",
+    "extra": {
+      "requiresWebView": true,
+      "dynamicDomainUrl": "https://docs.google.com/spreadsheets/d/1IHYlgjzhLCX3MKhewg7FGTf_oIkNlXzl2ogYXkSRjFM/export?format=csv"
+    }
+  },
     {
       "id": "hdfilmcehennemi",
       "name": "HD Film Cehennemi",
