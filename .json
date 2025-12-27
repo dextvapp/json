@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lastUpdate": "2025-12-23",
+  "version": 2,
+  "lastUpdate": "2025-12-27",
   "defaults": {
     "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
     "cardImageWidth": 90,
@@ -369,8 +369,7 @@
           "name": "Diziler",
           "type": "series"
         }
-      ],
-      "note": "Domain otomatik olarak SelcukSports entry URL'den çekilir. baseUrl sadece fallback."
+      ]
     },
     {
       "id": "beinsports",
@@ -409,34 +408,17 @@
       }
     },
     {
-      "id": "dizilla",
-      "name": "Dizilla",
+      "id": "diziyou",
+      "name": "Diziyou",
       "enabled": true,
-      "type": "dizilla",
+      "type": "diziyou",
       "hasLiveTV": false,
       "hasMovies": false,
       "hasSeries": true,
       "searchEnabled": true,
-      "baseUrl": "https://dizilla40.com",
-      "encryption": {
-        "type": "aes",
-        "algorithm": "AES/CBC/PKCS5Padding",
-        "key": "9bYMCNQiWsXIYFWYAu7EkdsSbmGBTyUI",
-        "iv": "0000000000000000"
-      },
-      "api": {
-        "search": "/api/bg/searchcontent",
-        "findSeries": "/api/bg/findSeries"
-      },
+      "baseUrl": "https://www.diziyou.one",
       "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "Content-Type": "application/json"
-      },
-      "extra": {
-        "domainReplacement": {
-          "from": "sn.dplayer74.site",
-          "to": "sn.hotlinger.com"
-        }
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     }
   ],
