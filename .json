@@ -11,10 +11,10 @@
     "website": "https://dextvapp.github.io/apk/"
   },
   "update": {
-    "enabled": true,
-    "latestVersion": "1.0.1",
-    "downloadUrl": "https://github.com/dextvapp/apk/releases/latest/download/app-release.apk",
-    "message": "YENİ GÜNCELLEME\n\n- Performans iyileştirmeleri yapıldı.\n- Hatalar giderildi.\n- İyi seyirler dileriz!"
+    "enabled": false,
+    "latestVersion": "1.0.0",
+    "downloadUrl": "",
+    "message": ""
   },
   "filters": {
     "blockedNames": [
