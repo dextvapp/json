@@ -13,7 +13,11 @@
   "update": {
     "enabled": false,
     "latestVersion": "1.0.0",
-    "downloadUrl": "",
+    "forced": false,
+    "downloads": {
+      "arm64": "",
+      "arm7": ""
+    },
     "message": ""
   },
   "filters": {
