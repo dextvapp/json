@@ -329,7 +329,7 @@
       "extra": {
         "apiKey": "9iQNC5HQwPlaFuJDkhncJ5XTJ8feGXOJatAA",
         "hash256": "711bff4afeb47f07ab08a0b07e85d3835e739295e8a6361db77eebd93d96306b",
-        "signature": "3082058830820370a00302010202145bbfbba9791db758ad12295636e094ab4b07dc24300d06092a864886f70d01010b05003074310b30090603550406130255533113301106035504080c0a43616c69666f726e6961311630[...]"
+        "signature": "3082058830820370a00302010202145bbfbba9791db758ad12295636e094ab4b07dc24300d06092a864886f70d01010b05003074310b30090603550406130255533113301106035504080c0a43616c69666f726e6961311630..."
       },
       "categories": [
         {
@@ -438,9 +438,6 @@
       "searchEnabled": true,
       "urls": {
         "base": "https://www.filmmodu.ws"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       },
       "api": {
         "getSource": "/get-source"
